@@ -58,7 +58,22 @@
 - IP: 72.60.64.35
 - Workspace: /root/.openclaw-iconic/workspace
 
-## WordPress (Iconic Investors — Hostinger)
+## Website — iconicinvestors.com.au (Vercel + GitHub) ✅ LIVE
+- Deployed by Tony via Vercel
+- GitHub repo: https://github.com/tony583/iconic-investors-website
+- Source: Lovable React/Vite app (iconic-investors-source_1 zip)
+- Deployed: 2026-04-20
+- Note: Tony deployed this directly — ARIA does NOT manage Vercel deployments
+- To update: push to GitHub repo, Vercel auto-deploys
+
+## WordPress (Iconic Investors — SiteGround) — SECONDARY ONLY
+- URL: https://iconicinvestors.com.au
+- WP Admin: https://iconicinvestors.com.au/wp-admin
+- Username: antonio@iconicinvestors.com.au
+- App Password: m9Xi 6Vq6 DfEr f63D lpYT PFVv
+- REST API confirmed working 2026-04-20
+
+## WordPress (Iconic Investors — Hostinger — OLD)
 - URL: https://salmon-cobra-731532.hostingersite.com
 - IP: 145.79.58.13
 - Server: Hostinger server2213, Asia (India)
@@ -74,9 +89,17 @@
 
 ## Email
 - Iconic Investors outreach: connect@iconicinvestors.com.au ✅ ARIA HAS ACCESS
-- App password: jvcozofvvfwhnzdd (IMAP confirmed working)
+- App password: ftqo xjao yqsj tygj (IMAP confirmed working 2026-04-20)
 - Iconic Investors info: info@iconicinvestors.com.au (alias — no separate login)
 - Tony personal: tonyalbuquerque@yahoo.com (personal only)
 - Tony business: antonio@bloomwealth.com.au (always CC on business emails)
 - GHL contact email: contact@bloomwealth.com.au
 - IMAP: imap.gmail.com:993 | SMTP: smtp.gmail.com:587
+
+## SiteGround (Iconic Investors)
+- URL: https://my.siteground.com
+- Collaborator email: connect@iconicinvestors.com.au
+- Collaborator password: (^+b9#)o+E11
+- Site: iconicinvestors.com.au
+- Role: Collaborator (invited by Antonio Albuquerque)
+- Status: Account registration pending (reCAPTCHA required from Tony)
